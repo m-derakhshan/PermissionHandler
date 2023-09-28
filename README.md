@@ -3,7 +3,7 @@
 
 This project implements an easy-to-use and ready-to-go permission handler for Android apps built with Jetpack Compose. It simplifies the process of requesting and managing permissions, making it hassle-free to integrate into your app.
 
-### Do you need step-by-step tutorial?
+## Do you need step-by-step tutorial?
 [Read the Full Guide](https://medium.com/@m.derakhshan/mastering-permissions-in-jetpack-compose-a-step-by-step-guide-aff751e9124)
 
 
